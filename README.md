@@ -1,2 +1,2 @@
-# ecommerce-case-study
-This repository is a case study from the Vectopus.com multi-vendor, e-commerce website that I co-founded. 
+# Multi-vendor e-commerce Architecture Case Study
+This repository is a case study from the [Vectopus.com](https://vectopus.com) multi-vendor, e-commerce website that I co-founded. Our main repository is private for security reasons but I want to share the journey we went through bootstrapping this business in our spare time. I want to share our decision-making and design choices and what the motivations and trade-offs were.
